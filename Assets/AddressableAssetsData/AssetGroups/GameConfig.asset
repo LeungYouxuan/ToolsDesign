@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  m_GroupName: GameConfig
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e6dd664b051fbee4f8308e5a120bb677
+  m_SerializeEntries:
+  - m_GUID: cda640c4248e6844cb7afbcc17a2db7d
+    m_Address: Assets/GameConfig/GameItemPool.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Config
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 607cc8eb6c201214db2833bcb5dccfa1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 680c087ab9a3b124d9278c56a3d75c99, type: 2}
+    - {fileID: 11400000, guid: 00dd1a26829e1d84c8d560bc780ab518, type: 2}
